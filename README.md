@@ -11,3 +11,14 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# To run this contract 
+Type 
+```
+npx hardhat run scripts/deploy.js
+```
+*This command will run the final employee array.*
+
+For testing different function <br>
+--Uncomment the code written in scripts/deploy.js file--
+
